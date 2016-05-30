@@ -1,6 +1,8 @@
 # NHL-game-prediction
 Predicting the Outcome of NHL Games
 
+![Sports-Ref](https://pbs.twimg.com/profile_images/665173360800718848/iqDmjwxO.jpg)
+
 Sports over time have been largely dominated by the use of numbers and statistics. Moneyball, the 2011 movie demonstrating a statistical approach in developing a competitive team using baseball statistics, shows one approach of how statistics, and machine learning to an extent, can predict and optimize the outcome of sports (in this case it was choosing players for a team).
 
 Today I will be attempting to see if I can predict the outcome of NHL matches using machine learning tools, particularly the Random Forest Classifier.
