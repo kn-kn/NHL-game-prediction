@@ -23,6 +23,6 @@ Here are the direct links if you wish to view the two datasets I use to build my
 
 This project was completed using Jupyter Notebook and Python utilizing Pandas, NumPy and Scikit-Learn.
 
-This project was a great learning experience as this is my first attempt in learning Github. For starters I have simply uploaded the external images and the notebook into this repository in the event you would like to replicate this project to learn as well!
+This project was a great learning experience as this is my first attempt in learning Github. For starters I have simply uploaded the Jupyter/ IPython notebook into this repository in the event you would like to replicate this project to learn as well!
 
 
